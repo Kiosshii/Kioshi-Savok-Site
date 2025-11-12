@@ -1,4 +1,4 @@
-# Kioshi-Savok-Site
+# Kioshi-Savok-Site КНЯЗЕВ С.Э.
 Разработка донат сайта для сервера The Longrest Night.
 На сайте будет
 1) Авторизация пользователя через Steam
